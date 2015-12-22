@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"Floobits",
+		"Material Theme",
+		"Package Control",
+		"Seti_UI",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}

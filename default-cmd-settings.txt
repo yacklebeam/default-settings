@@ -1,0 +1,7 @@
+default-colors
+==============
+bg: 15,15,15
+fg: 180,140,100
+buf: 116x9999
+win: 116x40
+font: 16pt,consolas
